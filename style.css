@@ -1,0 +1,28 @@
+body {
+background-color: burlywood;
+}
+h1 {
+  color: blue;
+  font-size: 200%
+}
+
+p {
+  color: rebeccapurple;
+  font-size: 100% ;
+}
+#WeLiveInASociety{
+   width: 500px;
+   height: 700px;
+   position: absolute;
+   top: 0px;
+   left: 646px;
+}
+#NaeNae {
+  height: 550px;
+}
+#Yes {
+  height:150px;
+  position: absolute;
+  top:0px;
+  left:350px;
+}
